@@ -5,6 +5,7 @@ Ecommerce Project
 How to use: 
 
   Open the terminal and navigate to the directory where the project is located.
+  
   Compile and run the ECommerceUserInterface class by typing javac ECommerceUserInterface.java and then java ECommerceUserInterface.
   
   The system will prompt > where the user can input commands.
