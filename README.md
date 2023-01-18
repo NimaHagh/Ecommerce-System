@@ -6,17 +6,29 @@ How to use:
 
   Open the terminal and navigate to the directory where the project is located.
   Compile and run the ECommerceUserInterface class by typing javac ECommerceUserInterface.java and then java ECommerceUserInterface.
+  
   The system will prompt > where the user can input commands.
+  
   The following commands are available:
+  
   PRODS: Lists all products for sale.
+  
   BOOKS: Lists all books for sale.
+  
   CUSTS: Lists all registered customers.
+  
   ORDERS: Lists all current product orders.
+  
   SHIPPED: Lists all orders that have been shipped.
+  
   NEWCUST: Creates a new registered customer.
+  
   SHIP: Ships an order to a customer.
+  
   CUSTORDERS: Lists all the current orders and shipped orders for a specific customer id.
+  
   Q or QUIT: Exits the system.
+  
   
 Error handling has been implemented, if an invalid command is entered or an error occurs, the system will output an error message.
 
