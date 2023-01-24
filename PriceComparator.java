@@ -1,9 +1,6 @@
 import java.util.Comparator;
 
-/* Name: Nima Hagh Doust
- * Student Number: 501 037 198
- * 
- */
+
 
 /* 
  * Creates the comparator for the array list price  
