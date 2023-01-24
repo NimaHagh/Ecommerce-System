@@ -1,10 +1,6 @@
 import java.util.ArrayList;
 import java.util.Scanner;
 import java.util.StringTokenizer;
-/* Name: Nima Hagh Doust
- * Student Number: 501 037 198
- * 
- */
 
 
 
