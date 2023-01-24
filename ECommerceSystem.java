@@ -5,10 +5,7 @@ import java.util.Comparator;
 import java.util.Random;
 import java.util.Scanner;
 
-/* Name: Nima Hagh Doust
- * Student Number: 501 037 198
- * 
- */
+
 
 /*
  * Models a simple ECommerce system. Keeps track of products for sale, registered customers, product orders and
